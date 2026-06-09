@@ -9,7 +9,7 @@ class Node {
     }
 }
 
-public class Main1 {
+public class Doublyll {
 
     static Node head = null;
 
